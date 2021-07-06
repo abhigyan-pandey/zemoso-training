@@ -1,0 +1,3 @@
+[submodule "new_folder_with_cloned_repo/remote"]
+	path = new_folder_with_cloned_repo/remote
+	url = https://github.com/abhigyan-pandey/remote
